@@ -256,7 +256,8 @@ namespace ABC_Company
                         textBoxEmail.Text = "";
                         textBoxFax.Text = "";
                         textBoxPic.Text = "";
-                    }
+                    }// Test change for Git
+
                     else
                     {
                         MessageBox.Show("No employee found with that number.");
